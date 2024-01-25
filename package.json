@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/async-landing.git"
+    "url": "git+https://github.com/danhergir/async-js-api/.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/platzi/async-landing/issues"
+    "url": "https://github.com/danhergir/async-js-api//issues"
   },
-  "homepage": "https://github.com/platzi/async-landing#readme",
+  "homepage": "https://github.com/danhergir/async-js-api/#readme",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
